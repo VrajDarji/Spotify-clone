@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Trying to clone Spotify using React.
+
+[Site Live Here](https://spotify-lone-trial.netlify.app/).
+
+Learning!!!!!
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
